@@ -1,0 +1,43 @@
+h1{
+  color:#483D8B;
+  font-size:44px;
+  text-align:center;
+}
+h2{
+  color: DodgerBlue;
+  font-size:30px ;
+  text-align: center;
+}
+h3{
+  color: rgb(0, 191, 255);
+  font-size:21px ;
+}
+nav{
+  text-align: center;
+  
+}
+body{
+background-color:FloralWhite;
+
+}
+p{
+   font: 1em sans-serif;
+   font-size: 15px;
+
+}
+ul{
+  font-size: 18px;
+  list-style-position: inside;
+  text-align: center;
+  
+}
+
+ol{
+  list-style-position: inside;
+  text-align: center;
+}
+
+
+img{
+  height: 300px;;
+}
